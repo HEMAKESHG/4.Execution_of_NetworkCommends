@@ -69,17 +69,20 @@ print(result,unans)
 PING COMMAND:
 
 CLIENT:
+
 ![318469112-7d14097a-a1d9-485d-be13-94b157c271d6](https://github.com/HEMAKESHG/4.Execution_of_NetworkCommends/assets/144870552/b49d3430-85fd-46a1-b5ff-64329e0703c8)
 
 
 SERVER:
+
 ![318469168-55491c3f-2427-4ee9-a0fb-530c80b5cd29](https://github.com/HEMAKESHG/4.Execution_of_NetworkCommends/assets/144870552/9171174c-aa51-409d-a745-43d8f3098fda)
 
 
 TRACEROUTE COMMAND:
+
 ![318469246-1f5d8901-9514-44f9-a3fa-f700c40303f4](https://github.com/HEMAKESHG/4.Execution_of_NetworkCommends/assets/144870552/f6b094b9-06f9-42d5-88e8-a4f9093f1a71)
 
 
 
 ## Result
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands Performed.
